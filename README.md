@@ -16,4 +16,4 @@ A simple, responsive travel-themed website built using HTML, CSS, and JavaScript
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FlyTowardsDream.git
+git clone https://github.com/reddyravi30/FlyTowardsDream.git
